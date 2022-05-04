@@ -1,2 +1,2 @@
 # Todolist
-simple to-do list using Je and css
+simple to-do list using Js and css
